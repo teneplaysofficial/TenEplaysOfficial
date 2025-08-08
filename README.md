@@ -1,4 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TenEplaysOfficial)
+[![JSR Scope](https://jsr.io/badges/@tene)](https://jsr.io/@tene)
 
 ## Blog posts
 
