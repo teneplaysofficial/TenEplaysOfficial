@@ -4,11 +4,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate YAML Guide for Developers: From Basics to Advanced DevOps Workflows](https://dev.to/tenelabs/the-ultimate-yaml-guide-for-developers-from-basics-to-advanced-devops-workflows-36lm)
+- [Product-Based vs. Service-Based Companies](https://dev.to/tenelabs/product-based-vs-service-based-companies-4bhm)
 - [Document Your JavaScript Code Like a Pro with JSDoc](https://dev.to/tenelabs/document-your-javascript-code-like-a-pro-with-jsdoc-3oon)
 - [GitNifty: Streamline Git Automation in Node.js](https://dev.to/tene/gitnifty-streamline-git-automation-in-nodejs-4f22)
 - [How to Implement Push Notifications Using JavaScript](https://dev.to/tenelabs/how-to-implement-push-notifications-using-javascript-4a4d)
-- [How TailwindCSS Speeds Up Development](https://dev.to/tenelabs/how-tailwindcss-speeds-up-development-21fp)
-- [Installing Tailwind CSS v4.0 with Vite 🚀](https://dev.to/tenelabs/installing-tailwind-css-v40-with-vite-24ih)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
