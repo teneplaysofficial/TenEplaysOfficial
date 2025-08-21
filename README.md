@@ -5,8 +5,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ultimate Guide to grep, awk, sed, and jq for Text Processing in Linux](https://dev.to/tenelabs/ultimate-guide-to-grep-awk-sed-and-jq-for-text-processing-in-linux-589m)
-- [Product-Based vs. Service-Based Companies](https://dev.to/tenelabs/product-based-vs-service-based-companies-4bhm)
 - [The Ultimate YAML Guide for Developers: From Basics to Advanced DevOps Workflows](https://dev.to/tenelabs/the-ultimate-yaml-guide-for-developers-from-basics-to-advanced-devops-workflows-36lm)
+- [Product-Based vs. Service-Based Companies](https://dev.to/tenelabs/product-based-vs-service-based-companies-4bhm)
 - [Document Your JavaScript Code Like a Pro with JSDoc](https://dev.to/tenelabs/document-your-javascript-code-like-a-pro-with-jsdoc-3oon)
 - [GitNifty: Streamline Git Automation in Node.js](https://dev.to/tene/gitnifty-streamline-git-automation-in-nodejs-4f22)
 <!-- BLOG-POST-LIST:END -->
