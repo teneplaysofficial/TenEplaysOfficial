@@ -4,10 +4,10 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate HTML Cheat Sheet](https://dev.to/tenelabs/the-ultimate-html-cheat-sheet-14lm)
 - [No-Code &amp; Low-Code Frontend Builders: The Best SaaS Platforms](https://dev.to/tenelabs/no-code-low-code-frontend-builders-the-best-saas-platforms-c55)
 - [Comprehensive List of Programming Languages and Their Uses](https://dev.to/tenelabs/comprehensive-list-of-programming-languages-and-their-uses-31a)
 - [Ultimate Guide to grep, awk, sed, and jq for Text Processing in Linux](https://dev.to/tenelabs/ultimate-guide-to-grep-awk-sed-and-jq-for-text-processing-in-linux-589m)
-- [Product-Based vs. Service-Based Companies](https://dev.to/tenelabs/product-based-vs-service-based-companies-4bhm)
 - [The Ultimate YAML Guide for Developers: From Basics to Advanced DevOps Workflows](https://dev.to/tenelabs/the-ultimate-yaml-guide-for-developers-from-basics-to-advanced-devops-workflows-36lm)
 <!-- BLOG-POST-LIST:END -->
 
