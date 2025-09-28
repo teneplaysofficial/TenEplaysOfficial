@@ -4,11 +4,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
 - [Introduction to Storybook: A Guide for UI Development](https://dev.to/tenelabs/introduction-to-storybook-a-guide-for-ui-development-4dnn)
 - [Then vs Await in JavaScript](https://dev.to/tenelabs/then-vs-await-in-javascript-56lh)
 - [The Ultimate HTML Cheat Sheet](https://dev.to/tenelabs/the-ultimate-html-cheat-sheet-14lm)
 - [No-Code &amp; Low-Code Frontend Builders: The Best SaaS Platforms](https://dev.to/tenelabs/no-code-low-code-frontend-builders-the-best-saas-platforms-c55)
-- [Comprehensive List of Programming Languages and Their Uses](https://dev.to/tenelabs/comprehensive-list-of-programming-languages-and-their-uses-31a)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
