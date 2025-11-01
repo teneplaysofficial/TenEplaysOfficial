@@ -11,6 +11,13 @@
 - [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
 <!-- BLOG-POST-LIST:END -->
 
+### Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TenEplaysOfficial&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TenEplaysOfficial&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 <div>
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/discoparrot.gif" width="30" height="30"/>
